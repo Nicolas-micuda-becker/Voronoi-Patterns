@@ -1,4 +1,4 @@
-# Voronoi-Circles
+# Voronoi-Patterns
 
 **Author:** Nicolas Micuda  
 **Project Type:** Individual  
