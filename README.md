@@ -58,4 +58,4 @@ Ensure these libraries are installed before compiling the project.
 - Add support for more image formats beyond BMP.  
 
 ## License  
-This project is distributed under the **GNU GPL** license. Refer to the `COPYING` file for more details.  
+This project is distributed under the **GNU GPL** license. Refer to the `LICENSE` file for more details.  
